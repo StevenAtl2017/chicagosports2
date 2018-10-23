@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+<html>
+ <head>
+  <!-- reference to your CSS page -->
+  <link type="text/css" rel="stylesheet" href="assets/stylesheets/styles.css" />
+  <img src="http://3.bp.blogspot.com/-0c4UQKPZ4xk/TZKbfnHlfTI/AAAAAAAAARQ/EMph83qdcVs/s1600/Japanese_flag.jpg" width="50">
+  <a href="https://yamadallas.com/" target="_blank">Yama Dallas</a>
+</head>
+
+<body>
+<div>
+
+<h1 "text-align: center;">My favorite restaurant in DFW</h1>
+
+<p>Full disclosure, I am Japanese American, so this is not a surprise to some that this is my favorite restuarant in DFW. I first visited this place in the Summer of 2016. 
+I came from Atlanta to work for 2 months in Lewisville and supported Japanese clients. Because of the time difference, I had to work very late every single night. And dining option was not great around the area. </p>
+
+<p>
+I found Yama through Google search and found out there were several locations near the office. The best part was, 
+they are all open until 2am in the morning! I can't tell you how much Yama meant to us since most Japanese guests weren't used to eating 
+American foods and many started craving Japanese foods at some point. 
+</p>
+
+<p>There are 4 locations in the DFW and cach Yama locations are different. The one in Plano off Legacy, which is my favorite location, offers great selection of Taiwanese/Chinese options in addition to their great authentic Japanese menus, and the only one that operates during lunch hours too. The other three locations are open only for dinner but they are still open until 2am. 
+</p>
+
+	</div>
+</body>
+</html>
+
+
+
